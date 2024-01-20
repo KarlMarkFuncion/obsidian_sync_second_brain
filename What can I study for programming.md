@@ -12,4 +12,5 @@
 	- over 300GB of storage MINIMUM
 	- Expandable with the 300GB hard drive Red gave me (buy CD-reader to Hardrive bay for Dell laptops)
 
-Obsidian
+### Obsidian
+- Create an automatic syncing vault using Github. -- DONEj

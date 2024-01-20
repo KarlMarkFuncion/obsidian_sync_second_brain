@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "What can I study for programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2157605a60043b0",
+            "id": "a49538de405623c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Butter.md",
+                "file": "Record of my Life/Jan 20 journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "59cc3278aa0338b3",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Butter.md",
+                "file": "Record of my Life/Jan 20 journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Butter.md",
+                "file": "Record of my Life/Jan 20 journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Butter.md"
+                "file": "Record of my Life/Jan 20 journal.md"
               }
             }
           }
@@ -172,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2157605a60043b0",
+  "active": "919fc80118a44109",
   "lastOpenFiles": [
-    "readme.md",
+    "What can I study for programming.md",
+    "Record of my Life/Jan 20 journal.md",
+    "Record of my Life",
     "Butter.md",
-    "What can I study for programming.md"
+    "readme.md"
   ]
 }
