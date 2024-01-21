@@ -10,4 +10,5 @@ Notable recent events:
 
 To Do List
 
-[] I wa
+[] I want to do music tomorrow
+[] Do the thingy 
