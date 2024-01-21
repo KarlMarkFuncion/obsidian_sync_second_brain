@@ -5,8 +5,9 @@ Notable recent events:
 1. I don't wanna date Reyziel rn, and it seems she's not keen right now either. But it could also be that she's busy. It's likely the latter. But personally for me to her. I don't feel like talking to her rn.
 	1. I'm reconsidering this fr... hmmmmm
 	   ![[Pasted image 20240122000609.png]]
-	should I invite her next sunday? What if I just plan it ahead of time... hmm I could go to MOA to work tomorrow, 
-1. Papa recommended I learn some basic CyberSec skills for my future career. Although that career isn't an entry level thing. I find it a good play to make in the future while I enjoy my time with programming.
+	should I invite her next sunday? What if I just plan it ahead of time... hmm I could go to MOA to work tomorrow, and check out if I can buy director's club tickets on the spot.
+	
+2. Papa recommended I learn some basic CyberSec skills for my future career. Although that career isn't an entry level thing. I find it a good play to make in the future while I enjoy my time with programming.
 	- 
 		1. Firewall, Proxy, DMZ
 		2. Cloud
