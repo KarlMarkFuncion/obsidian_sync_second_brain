@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Jan 20 journal.md",
+                "file": "Record of my Life/Jan 21 journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Jan 20 journal.md"
+                "file": "Record of my Life/Jan 21 journal.md"
+              }
+            }
+          },
+          {
+            "id": "fb18c0756e83f513",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Record of my Life/Jan 21 journal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ff65b68327fd1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Record of my Life/Jan 21 journal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -142,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c11978258765848",
+  "active": "a49538de405623c1",
   "lastOpenFiles": [
+    "Record of my Life/Jan 20 journal.md",
+    "Record of my Life/Jan 21 journal.md",
+    "Untitled",
     "What can I study for programming.md",
     "conflict-files-obsidian-git.md",
     "Record of my Life/Jan 21 Journal.md",
@@ -153,7 +185,6 @@
     "obsidian_sync_second_brain/Record of my Life",
     "obsidian_sync_second_brain/Chalis.js",
     "obsidian_sync_second_brain",
-    "Record of my Life/Jan 20 journal.md",
     "Record of my Life",
     "Butter.md",
     "readme.md"
