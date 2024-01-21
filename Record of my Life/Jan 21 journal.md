@@ -6,6 +6,6 @@ Notable recent events:
 2. Papa recommended I learn some basic CyberSec skills for my future career. Although that career isn't an entry level thing. I find it a good play to make in the future while I enjoy my time with programming.
 
 3. I'm deciding to leverage my ADHD to make technology dabbling projects. Here is an idea I have right now:
-	1. Make a home cloud server using my old DELL laptop as 
+	1. Make a home cloud server using my old DELL laptop as my home storage server for my files.
 
 To Do List
