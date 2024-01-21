@@ -9,3 +9,5 @@ Notable recent events:
 	1. Make a home cloud server using my old DELL laptop as my home storage server for my files.
 
 To Do List
+
+[] I wa
