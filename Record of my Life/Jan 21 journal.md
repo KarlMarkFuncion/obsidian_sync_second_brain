@@ -14,4 +14,6 @@ To Do List
 [] Do the thingy with Alerted page
 [] Get the thing to work -- arduino and prototype
 [] Research how to make a home server with an older computer
-[] Avoid talking to Reizi right now. I'm gonna get too clingy with her if I talk rn. If she forgets and loses interest with me? So be it. Let the Lord handle my love li
+[] Avoid talking to Reizi right now. I'm gonna get too clingy with her if I talk rn. If she forgets and loses interest with me? So be it. Let the Lord handle my love life and her choices to live life with me.
+[] Wash all the bedstuffs under the sofa bed.
+[] Wash Khalil's bed and start sleeping there starting tomorrow.
