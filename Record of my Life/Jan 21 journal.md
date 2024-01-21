@@ -11,4 +11,6 @@ Notable recent events:
 To Do List
 
 [] I want to do music tomorrow
-[] Do the thingy 
+[] Do the thingy with Alerted page
+[] Get the thing to work -- arduino and prototype
+[] 
