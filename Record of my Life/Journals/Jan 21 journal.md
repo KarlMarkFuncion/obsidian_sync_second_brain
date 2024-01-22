@@ -22,6 +22,8 @@ To Do List
 [] Do the thingy with Alerted page
 [] Get the thing to work -- arduino and prototype
 [] Research how to make a home server with an older computer
+	 - Download ubuntu server OS For my dell laptop using NetVN and NextCloud
+	 - https://www.youtube.com/watch?v=zPmqbtKwtgw&pp=ygU4aG93IHRvIG1ha2UgeW91ciBvd24gQ2xvdWQgc3RvcmFnZSB1c2luZyBhbiBvbGQgY29tcHV0ZXI%3D 
 [] Avoid talking to Reizi right now. I'm gonna get too clingy with her if I talk rn. If she forgets and loses interest with me? So be it. Let the Lord handle my love life and her choices to live life with me.
 [] Wash all the bedstuffs under the sofa bed.
 [] Wash Khalil's bed and start sleeping there starting tomorrow.

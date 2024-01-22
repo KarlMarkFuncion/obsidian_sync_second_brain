@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What can I study for programming.md",
+                "file": "Record of my Life/Journals/Jan 21 journal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What can I study for programming.md",
+                "file": "Record of my Life/Journals/Jan 21 journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What can I study for programming.md",
+                "file": "Record of my Life/Journals/Jan 21 journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What can I study for programming.md"
+                "file": "Record of my Life/Journals/Jan 21 journal.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "f18fa3a826c9575b",
   "lastOpenFiles": [
-    "Record of my Life/Jan 20 journal.md",
-    "Record of my Life/Journals/Jan 21 journal.md",
     "Record of my Life/Journals/Jan 20 journal.md",
+    "Record of my Life/Journals/Jan 21 journal.md",
+    "images",
+    "What can I study for programming.md",
+    "Record of my Life/Jan 20 journal.md",
     "Record of my Life/Journals",
-    "Pasted image 20240122000609.png",
+    "images/Pasted image 20240122000609.png",
     "Record of my Life/Jan 21 journal.md",
     "obsidian_sync_second_brain",
     "readme.md",
     "Butter.md",
-    "Record of my Life",
-    "What can I study for programming.md"
+    "Record of my Life"
   ]
 }
