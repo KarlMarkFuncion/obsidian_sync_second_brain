@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Journals/Jan 21 journal.md",
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/Jan 21 journal.md"
+                "file": "Record of my Life/Shopping Lists/Shopping list.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/Jan 21 journal.md",
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/Jan 21 journal.md",
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,13 +173,16 @@
   },
   "active": "a49538de405623c1",
   "lastOpenFiles": [
+    "Record of my Life/Journals/Jan 23.md",
+    "Record of my Life/Journals/Jan 22 journal.md",
+    "What can I study for programming.md",
+    "readme.md",
+    "Record of my Life/Shopping Lists/Shopping list.md",
+    "Record of my Life/Journals/Jan 20 journal.md",
+    "Record of my Life/Journals/Jan 21 journal.md",
     "images/Pasted image 20240122000609.png",
     "images",
-    "What can I study for programming.md",
-    "Record of my Life/Shopping Lists/Shopping list.md",
     "Pasted image 20240122000609.png",
-    "Record of my Life/Journals/Jan 21 journal.md",
-    "Record of my Life/Journals/Jan 20 journal.md",
     "Record of my Life/Bible Study ( Catholicism )",
     "Record of my Life/Shopping Lists",
     "Record of my Life/Journals",
@@ -192,7 +195,6 @@
     "obsidian_sync_second_brain/Chalis.js",
     "obsidian_sync_second_brain",
     "Record of my Life",
-    "Butter.md",
-    "readme.md"
+    "Butter.md"
   ]
 }
