@@ -3,5 +3,12 @@
 2. Skyflakes pack -- CANCEL
 3. Extra USB C charger
 4. Extra Charging brick
-5. 
+
+FOOD -- TRY GOING VEGETARIAN, PRIORITIZING FILLING, LIGHT MEALS, WITH HEAVY PROTEIN INTAKE
+1. Brocolli
+2. Mushrooms
+3. Tofu
+4. Greek Yogurt
+5. Milk
+6. Protein Supplements
 
