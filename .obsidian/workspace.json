@@ -4,58 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "0a9f400a2067c339",
+        "id": "ba38b5fe5e3791f3",
         "type": "tabs",
         "children": [
-          {
-            "id": "884a4f2dccc436ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
           {
             "id": "f18fa3a826c9575b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Schedules/Jan 24 Schedule.md",
+                "file": "Record of my Life/Journals/Jan 23 journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "452f3abc31a3c4ba",
+            "id": "c9fd2841c78e38a3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Fitness/Training Canvas.canvas",
-                "viewState": {
-                  "x": -113,
-                  "y": -291.5,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "fe49d3b73187bd59",
+            "id": "04874b47cfab2744",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Schedules/Jan 24 Schedule.md",
+                "file": "What can I study for programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a49538de405623c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedules/Jan 25 Schedule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 300
   },
   "right": {
     "id": "59cc3278aa0338b3",
@@ -115,35 +112,6 @@
         "id": "0dee4d0077a43a92",
         "type": "tabs",
         "children": [
-          {
-            "id": "066bd766855d2969",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Record of my Life/Schedules/Jan 24 Schedule.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "42ba02775fb4e1b6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Record of my Life/Schedules/Jan 24 Schedule.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "c2e42ccb9ee0806a",
             "type": "leaf",
@@ -160,13 +128,38 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb18c0756e83f513",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Record of my Life/Schedules/Jan 24 Schedule.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5c81a1f1844a2990",
+            "id": "8ff65b68327fd1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea1c6c25197fe096",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -174,74 +167,75 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 802.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-day-planner:Timeline": false,
-      "daily-notes:Open today's daily note": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fe49d3b73187bd59",
+  "active": "919fc80118a44109",
   "lastOpenFiles": [
-    "Record of my Life/Schedules/Jan 23 Schedule.md",
-    "Fitness/Jan 24 ( Wednesday - Cardio day ).md",
-    "Fitness/Training Canvas.canvas",
-    "Fitness/Training plan..md",
-    "Project Alaska/Cities, Nations, and Villages/Site 113-b.canvas",
+    "Record of my Life/Journals/Jan 24 Journal.md",
+    "Record of my Life/Journals/Jan 23 journal.md",
+    "Schedules/Jan 24 Schedule.md",
+    "Schedules/Jan 26 Schedule.md",
+    "Schedules/Jan 25 Schedule.md",
+    "What can I study for programming.md",
+    "Schedules/Jan 23 Schedule.md",
+    "images/wh40k__adepta_sororitas__by_bergionstyle_dg25h2u-fullview.jpg",
+    "images/viking-raiders-in-ocean.jpg",
+    "images/tony-tony-chopper.webp",
+    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest.png",
+    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest 2.png",
+    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest 1.png",
+    "images/j85hz0e1m2d41.webp",
     "images/images.jpg",
     "images/generative-ai-illustration-of-frozen-wasteland-the-rough-terrain-of-the-north-pole-photo.jpg",
-    "images/20231205213023_1.webp",
-    "images/tony-tony-chopper.webp",
-    "images/Sven_from_Frozen.png",
-    "images/Kristoff_Bjorgman.png",
-    "images/acclaimed-post-apocalyptic-city-builder-frostpunk-is-currently-free-on-the-epic-games-store-1622738353498.webp",
-    "images/Generator.webp",
-    "images/j85hz0e1m2d41.webp",
-    "Project Alaska/Cities, Nations, and Villages/Site 113-b.md",
-    "Project Alaska/Factions, Orders, and Groups/Pullerng Order.canvas",
-    "Project Alaska/Cities, Nations, and Villages",
-    "Project Alaska/Characters/Jhin-girl Belle.canvas",
-    "Project Alaska/Characters/Jhin-girl Belle.md",
+    "images/english-privateers.webp",
+    "Schedules",
+    "Record of my Life/Journals/2024-01-23.md",
     "Project Alaska/Factions, Orders, and Groups/Roselande.canvas",
-    "Project Alaska/Characters/Akhoy.md",
-    "Project Alaska/Story",
-    "images/viking-raiders-in-ocean.jpg",
     "Project Alaska/Factions, Orders, and Groups/Roselande Corsairs.md",
     "Project Alaska/Factions, Orders, and Groups/Pullerng Order.md",
+    "Project Alaska/Factions, Orders, and Groups/Pullerng Order.canvas",
+    "Project Alaska/Cities, Nations, and Villages/Site 113-b.md",
+    "Project Alaska/Cities, Nations, and Villages/Site 113-b.canvas",
+    "Project Alaska/Characters/Jhin-girl Belle.md",
+    "Project Alaska/Characters/Jhin-girl Belle.canvas",
     "Project Alaska/Factions, Orders, and Groups",
+    "Project Alaska/Cities, Nations, and Villages",
     "Project Alaska/Characters",
+    "Project Alaska",
+    "Fitness/Training plan..md",
+    "Fitness/Training Canvas.canvas",
     "Fitness/The point of my Training.md",
-    "Untitled",
-    "Record of my Life/Schedules/Jan 24 Schedule.md",
-    "Fitness/Jan 24/Record of training.md",
-    "Fitness/Jan 24",
-    "Record of my Life/Journals/Jan 23 journal.md",
-    "Record of my Life/Schedules/Jan 26 Schedule.md",
-    "Record of my Life/Schedules/Jan 25 Schedule.md",
-    "Record of my Life/Journals/Jan 26 journal.md",
-    "Record of my Life/Journals/Jan 24 journal.md",
-    "Record of my Life/Journals/Jan 25 journal.md",
-    "Record of my Life/Journals/January 23 journal.md",
-    "Record of my Life/Journals/January 23 journpm1/23/2024.md",
-    "Record of my Life/Journals/January 23 journpm1/23",
-    "Record of my Life/Journals/January 23 journpm1",
+    "Fitness/Jan 24 ( Wednesday - Cardio day ).md",
+    "Fitness",
     "2024-01-23.md",
-    "2024-01-25.md",
-    "2024-01-24.md",
-    "2024-01-28.md",
-    "2024-01-27.md",
-    "2024-01-26.md",
-    "Record of my Life/Schedules",
-    "Project Alaska"
+    "Record of my Life/Shopping Lists/Shopping list.md",
+    "Record of my Life/Journals/Jan 22 journal.md",
+    "readme.md",
+    "Record of my Life/Journals/Jan 20 journal.md",
+    "Record of my Life/Journals/Jan 21 journal.md",
+    "images",
+    "Record of my Life/Bible Study ( Catholicism )",
+    "Record of my Life/Shopping Lists",
+    "Record of my Life/Journals",
+    "conflict-files-obsidian-git.md",
+    "Record of my Life/Jan 21 Journal.md",
+    "obsidian_sync_second_brain/readme.md",
+    "obsidian_sync_second_brain/What can I study for programming.md",
+    "obsidian_sync_second_brain/Record of my Life/Jan 20 journal.md"
   ]
 }
