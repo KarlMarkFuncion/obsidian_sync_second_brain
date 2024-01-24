@@ -21,6 +21,11 @@ I love the lord pero parang nahihirapan na ko kung anong sunod na galaw ko kay R
 
 "Bear with it. For God is with you."
 
+### 8:00PM at Home ASUS desk
+
+I got fat. not just fat. PHAT. This is fun. I'll have a motivation that is completely valid for me to go to fitness journey again. Time to go Cardio , Weights, Cardio, Weights again.
+
+
 Potential study plan for music from 10AM - 4PM
 1. 1.5 Hours downloading free music software (FL Studio, Vocaloid Software, etc)
 2. 50 minutes setting up the programs with tutorials to know what to do

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a4d676a3e6207931","type":"file","file":"images/Jellyfish_Skyarium.webp","x":860,"y":-347,"width":485,"height":273},
+		{"id":"2a19e66c73621adb","type":"text","text":"# Moodboard","x":978,"y":-47,"width":250,"height":60},
+		{"id":"865c9053f0d3b6ff","type":"file","file":"images/english-privateers.webp","x":1380,"y":-325,"width":400,"height":230},
+		{"id":"e1a13446a33e161c","type":"file","file":"images/MadMaxFuryRoad-247-ft.webp","x":1700,"y":-47,"width":400,"height":267},
+		{"id":"1ed00ad880e1d859","type":"file","file":"images/GGUDC_May_Ship_II 1.webp","x":1280,"y":-47,"width":380,"height":298},
+		{"id":"0c28780f492e1630","type":"file","file":"images/99120112043_DrukhariCombatPatrolGroup.jpg","x":1273,"y":280,"width":387,"height":400},
+		{"id":"ad76d63934c171e8","type":"file","file":"images/Privateer_Outift.webp","x":1700,"y":251,"width":287,"height":400},
+		{"id":"dcea7ee7e3fc586a","type":"file","file":"images/viking-raiders-in-ocean.jpg","x":860,"y":69,"width":400,"height":302},
+		{"id":"48929acb709624ea","type":"file","file":"Project Alaska/Factions, Orders, and Groups/Roselande Corsairs.md","x":280,"y":-210,"width":400,"height":400}
+	],
+	"edges":[]
+}

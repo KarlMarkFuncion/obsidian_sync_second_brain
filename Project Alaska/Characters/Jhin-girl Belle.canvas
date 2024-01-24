@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"a11d43daaeffa243","type":"file","file":"images/Untitled 1.jpg","x":-460,"y":-260,"width":160,"height":240},
+		{"id":"0c5a01966821c051","type":"file","file":"images/417270447_1403405000252619_331174625207176769_n.jpg","x":-268,"y":-260,"width":320,"height":240},
+		{"id":"2ffda16d6787456a","type":"file","file":"images/1848_69_01.jpg","x":-401,"y":0,"width":267,"height":400},
+		{"id":"4430ee0006fc9846","type":"text","text":"# **JHIN-GIRL BELLE**\n","x":160,"y":-260,"width":291,"height":60},
+		{"id":"481a291251543ed3","type":"text","text":"Affiliation: [[Pullerng Order]]","x":-51,"y":-40,"width":250,"height":60}
+	],
+	"edges":[]
+}

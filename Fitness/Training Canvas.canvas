@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"c8f7f9629f30bbf9","type":"file","file":"Fitness/Jan 24 ( Wednesday - Cardio day ).md","x":-520,"y":-160,"width":400,"height":580},
+		{"id":"16e094f364c19578","type":"file","file":"Fitness/The point of my Training.md","x":-520,"y":-620,"width":840,"height":320},
+		{"id":"49e93e621e380701","type":"text","text":"## Exercises I like\n\n1. Lat raises\n2. Lat pull downs ( wide grip )\n3. EZ bar curls\n4. Dumbell bench press\n5. Tricep pull downs\n6. Rows\n7. Deadlift\n8. Outdoor jogging in the early morning ( 4AM )","x":360,"y":-620,"width":445,"height":320}
+	],
+	"edges":[]
+}
