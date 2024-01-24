@@ -23,8 +23,12 @@
             "id": "c9fd2841c78e38a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -128,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Record of my Life/Shopping Lists/Shopping list.md"
+              }
             }
           },
           {
@@ -137,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Record of my Life/Shopping Lists/Shopping list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +192,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "919fc80118a44109",
+  "active": "c9fd2841c78e38a3",
   "lastOpenFiles": [
     "Record of my Life/Journals/Jan 24 Journal.md",
     "Record of my Life/Journals/Jan 23 journal.md",
