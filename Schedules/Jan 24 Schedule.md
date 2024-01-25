@@ -25,4 +25,5 @@ TASK LIST IN ORDER (?)
 - [ ] 13:50 - 14:40 Emergency alert page hardcoded frontend
 - [ ] 14:40 - 15:50 Medical history hardcoded frontend
 - [ ] 16:00 - 18:00 Painting course
-- [ ] 20:00 - 21:00 Joshua class
+- [x] 20:00 - 21:00 Joshua class
+
