@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "41e8db514cb9c84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "04874b47cfab2744",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +204,24 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c9fd2841c78e38a3",
+  "active": "41e8db514cb9c84a",
   "lastOpenFiles": [
+    "Record of my Life/Journals/Jan 27 Journal.md",
+    "conflict-files-obsidian-git.md",
+    "images/studio-shot-isolated-on-gray-600nw-2287199651.webp",
+    "images/Zeratul_SC2-LotV_Art1.webp",
+    "images/Untitled 6.jpg",
+    "images/Untitled 5.jpg",
+    "images/Bernini_Hl._Longinus_Petersdom.jpg",
+    "images/600px-Zeratul.jpg",
+    "images/422396533_343300882015851_7065555722195853375_n.jpg",
+    "images/11-8.jpg",
+    "Schedules/Jan 25 Schedule ( Supposed Weights day ).md",
+    "Record of my Life/Journals/Jan 25 Journal.md",
+    "Project Alaska/Characters/Untitled.canvas",
+    "Project Alaska/Characters/Sa'lanzo.md",
     "Record of my Life/Journals/Untitled.md",
     "Record of my Life/Shopping Lists/Shopping list.md",
-    "Record of my Life/Journals/Jan 27 Journal.md",
     "Record of my Life/Journals/Jan 24 Journal.md",
     "Record of my Life/Journals/Jan 23 journal.md",
     "Schedules/Jan 24 Schedule.md",
@@ -206,14 +231,6 @@
     "Schedules/Jan 23 Schedule.md",
     "images/wh40k__adepta_sororitas__by_bergionstyle_dg25h2u-fullview.jpg",
     "images/viking-raiders-in-ocean.jpg",
-    "images/tony-tony-chopper.webp",
-    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest.png",
-    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest 2.png",
-    "images/png-transparent-cartoon-christmas-duchy-of-lucca-coat-of-arms-spain-coat-of-arms-of-sweden-mantling-heraldry-crest 1.png",
-    "images/j85hz0e1m2d41.webp",
-    "images/images.jpg",
-    "images/generative-ai-illustration-of-frozen-wasteland-the-rough-terrain-of-the-north-pole-photo.jpg",
-    "images/english-privateers.webp",
     "Schedules",
     "Record of my Life/Journals/2024-01-23.md",
     "Project Alaska/Factions, Orders, and Groups/Roselande.canvas",
@@ -237,13 +254,9 @@
     "Record of my Life/Journals/Jan 22 journal.md",
     "readme.md",
     "Record of my Life/Journals/Jan 20 journal.md",
-    "Record of my Life/Journals/Jan 21 journal.md",
     "images",
     "Record of my Life/Bible Study ( Catholicism )",
     "Record of my Life/Shopping Lists",
-    "Record of my Life/Journals",
-    "conflict-files-obsidian-git.md",
-    "Record of my Life/Jan 21 Journal.md",
-    "obsidian_sync_second_brain/readme.md"
+    "Record of my Life/Journals"
   ]
 }
