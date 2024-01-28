@@ -8,7 +8,7 @@ FOOD -- TRY GOING VEGETARIAN, PRIORITIZING FILLING, LIGHT MEALS, WITH HEAVY PROT
 1. Brocolli
 2. Mushrooms
 3. Tofu
-4. Greek Yogurt
+4. Greek Yogurt -- DONE
 5. Milk
 6. Protein Supplements
 
