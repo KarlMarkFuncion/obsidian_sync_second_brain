@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9ff7c7377a3e0868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Record of my Life/Schoolworks/Schoolworks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "04874b47cfab2744",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md"
+                "file": "Record of my Life/Schoolworks/Schoolworks.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "file": "Record of my Life/Schoolworks/Schoolworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "file": "Record of my Life/Schoolworks/Schoolworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,8 +204,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c9fd2841c78e38a3",
+  "active": "9ff7c7377a3e0868",
   "lastOpenFiles": [
+    "Record of my Life/Shopping Lists/Shopping list.md",
+    "Record of my Life/Schoolworks/Schoolworks.md",
+    "Record of my Life/Schoolworks",
     "Record of my Life/Journals/Jan 27 Journal.md",
     "conflict-files-obsidian-git.md",
     "images/studio-shot-isolated-on-gray-600nw-2287199651.webp",
@@ -209,7 +224,6 @@
     "Project Alaska/Characters/Untitled.canvas",
     "Project Alaska/Characters/Sa'lanzo.md",
     "Record of my Life/Journals/Untitled.md",
-    "Record of my Life/Shopping Lists/Shopping list.md",
     "Record of my Life/Journals/Jan 24 Journal.md",
     "Record of my Life/Journals/Jan 23 journal.md",
     "Schedules/Jan 24 Schedule.md",
@@ -241,10 +255,8 @@
     "2024-01-23.md",
     "Record of my Life/Journals/Jan 22 journal.md",
     "readme.md",
-    "Record of my Life/Journals/Jan 20 journal.md",
     "images",
     "Record of my Life/Bible Study ( Catholicism )",
-    "Record of my Life/Shopping Lists",
-    "Record of my Life/Journals"
+    "Record of my Life/Shopping Lists"
   ]
 }

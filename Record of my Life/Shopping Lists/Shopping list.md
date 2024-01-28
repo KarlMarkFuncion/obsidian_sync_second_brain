@@ -5,10 +5,10 @@
 4. Extra Charging brick
 
 FOOD -- TRY GOING VEGETARIAN, PRIORITIZING FILLING, LIGHT MEALS, WITH HEAVY PROTEIN INTAKE -- BUY THESE FOR UNDER 500 USING THE SODEXO COUPONS
-1. Brocolli
+1. Brocolli -- FIND CHEAP ONES
 2. Mushrooms
 3. Tofu
-4. Greek Yogurt -- DONE
+4. Greek Yogurt -- DONE, get the less sweet version next time
 5. Milk
 6. Protein Supplements
 
