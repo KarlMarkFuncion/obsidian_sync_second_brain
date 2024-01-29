@@ -7,3 +7,5 @@ Minimum features:
 3. Can show a paginated history of the thing (optional pagination. I can just show the pure table longgggg form of this)
 4. Can log into accounts.
 5. Can send and download xlsx / csv files
+
+Current features task list : 14
