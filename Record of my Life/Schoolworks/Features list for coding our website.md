@@ -7,5 +7,9 @@ Minimum features:
 3. Can show a paginated history of the thing (optional pagination. I can just show the pure table longgggg form of this)
 4. Can log into accounts.
 5. Can send and download xlsx / csv files
+6. Can have multiple registered PERS device
+7. Have a functioning database in the backend.
 
-Current features task list : 14
+Current features task list : 14:23 Monday
+- [ ] Add dynamic urls for each PERS device
+- [ ] 
