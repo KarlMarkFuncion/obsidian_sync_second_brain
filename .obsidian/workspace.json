@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md"
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Shopping Lists/Shopping list.md",
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,12 +204,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9ff7c7377a3e0868",
+  "active": "919fc80118a44109",
   "lastOpenFiles": [
-    "Record of my Life/Schoolworks/Features list for coding our website.md",
     "Record of my Life/Schoolworks/Schoolworks.md",
-    "Record of my Life/Journals/Jan 27 Journal.md",
     "Record of my Life/Shopping Lists/Shopping list.md",
+    "Record of my Life/Schoolworks/Features list for coding our website.md",
+    "Record of my Life/Journals/Jan 27 Journal.md",
     "Record of my Life/Schoolworks",
     "conflict-files-obsidian-git.md",
     "images/studio-shot-isolated-on-gray-600nw-2287199651.webp",

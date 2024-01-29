@@ -13,3 +13,5 @@ Minimum features:
 Current features task list : 14:23 Monday
 - [ ] Add dynamic urls for each PERS device
 - [ ] Add a dark theme
+- [ ] Make a faux data set for this website.
+- [ ] Make an O
