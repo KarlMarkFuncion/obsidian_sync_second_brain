@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/Jan 23 journal.md"
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/Jan 23 journal.md",
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/Jan 23 journal.md",
+                "file": "Record of my Life/Schoolworks/Features list for coding our website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "919fc80118a44109",
+  "active": "9ff7c7377a3e0868",
   "lastOpenFiles": [
+    "Record of my Life/Journals/Jan 23 journal.md",
     "Record of my Life/Schoolworks/Schoolworks.md",
     "Record of my Life/Shopping Lists/Shopping list.md",
     "Record of my Life/Schoolworks/Features list for coding our website.md",
@@ -226,7 +227,6 @@
     "Project Alaska/Characters/Sa'lanzo.md",
     "Record of my Life/Journals/Untitled.md",
     "Record of my Life/Journals/Jan 24 Journal.md",
-    "Record of my Life/Journals/Jan 23 journal.md",
     "Schedules/Jan 24 Schedule.md",
     "Schedules/Jan 26 Schedule.md",
     "Schedules/Jan 25 Schedule.md",
