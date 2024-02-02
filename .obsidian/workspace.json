@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record of my Life/Journals/To Do list as of Feb 2.md",
+                "file": "Project Alaska/Characters/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/To Do list as of Feb 2.md"
+                "file": "Project Alaska/Characters/Untitled.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/To Do list as of Feb 2.md",
+                "file": "Project Alaska/Characters/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/To Do list as of Feb 2.md",
+                "file": "Project Alaska/Characters/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,10 +204,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "919fc80118a44109",
+  "active": "9ff7c7377a3e0868",
   "lastOpenFiles": [
-    "Record of my Life/Schoolworks/Features list for coding our website.md",
     "Record of my Life/Journals/To Do list as of Feb 2.md",
+    "Project Alaska/Characters/Untitled.md",
+    "Record of my Life/Schoolworks/Features list for coding our website.md",
     "Record of my Life/Journals/Jan 23 journal.md",
     "Record of my Life/Schoolworks/Schoolworks.md",
     "Record of my Life/Shopping Lists/Shopping list.md",
@@ -254,7 +255,6 @@
     "Fitness/The point of my Training.md",
     "Fitness/Jan 24 ( Wednesday - Cardio day ).md",
     "Fitness",
-    "2024-01-23.md",
     "images",
     "Record of my Life/Bible Study ( Catholicism )",
     "Record of my Life/Shopping Lists"
