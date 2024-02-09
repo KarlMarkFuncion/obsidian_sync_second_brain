@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "a681a1f5f3f2950a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Record of my Life/Journals/Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "04874b47cfab2744",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md"
+                "file": "Record of my Life/Journals/Communication.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md",
+                "file": "Record of my Life/Journals/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/Jan 27 Journal.md",
+                "file": "Record of my Life/Journals/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +216,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9ff7c7377a3e0868",
+  "active": "a681a1f5f3f2950a",
   "lastOpenFiles": [
+    "Record of my Life/Journals/Jan 27 Journal.md",
+    "Record of my Life/Journals/Communication.md",
     "Record of my Life/Journals/Jan 25 Journal.md",
     "Project Alaska/Characters/Ryuuma Jin.md",
     "Record of my Life/Journals/To Do list as of Feb 2.md",
@@ -213,7 +227,6 @@
     "Record of my Life/Journals/Jan 23 journal.md",
     "Record of my Life/Schoolworks/Schoolworks.md",
     "Record of my Life/Shopping Lists/Shopping list.md",
-    "Record of my Life/Journals/Jan 27 Journal.md",
     "Record of my Life/Schoolworks",
     "conflict-files-obsidian-git.md",
     "images/studio-shot-isolated-on-gray-600nw-2287199651.webp",
@@ -227,7 +240,6 @@
     "Schedules/Jan 25 Schedule ( Supposed Weights day ).md",
     "Project Alaska/Characters/Untitled.canvas",
     "Project Alaska/Characters/Sa'lanzo.md",
-    "Record of my Life/Journals/Untitled.md",
     "Record of my Life/Journals/Jan 24 Journal.md",
     "Schedules/Jan 24 Schedule.md",
     "Schedules/Jan 26 Schedule.md",
