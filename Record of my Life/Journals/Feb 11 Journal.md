@@ -14,6 +14,6 @@ I'll go again, I sense. I'd like to next week. in addition to going with Derick.
 		- [ ] Run MongoDB on terminal
 		- [ ] Add connection in MongoDb compass
 		- [ ] Run the Backend app.
-- [ ] Create a database through Mongoose in MongoDB
+- [x] Create a database through Mongoose in MongoDB
 
 - [x] Make a script for the Canva thing.
