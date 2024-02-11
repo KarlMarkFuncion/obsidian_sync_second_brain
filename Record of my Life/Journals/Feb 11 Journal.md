@@ -10,7 +10,8 @@ I'll go again, I sense. I'd like to next week. in addition to going with Derick.
 - [x] Connect MongoDB to Node JS
 	Steps to connect MongoDB to Node:
 		- [ ] Install Mongodb
-		- [ ] Add code to connect Node to 
+		- [ ] Add code to connect Node to Mongodb through mongoose or NodeMongoDB
+		- [ ] 
 - [ ] Create a database through Mongoose in MongoDB
 
 - [x] Make a script for the Canva thing.
