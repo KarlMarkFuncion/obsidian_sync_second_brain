@@ -4,7 +4,15 @@
 		{"id":"0c5a01966821c051","type":"file","file":"images/417270447_1403405000252619_331174625207176769_n.jpg","x":-268,"y":-260,"width":320,"height":240},
 		{"id":"2ffda16d6787456a","type":"file","file":"images/1848_69_01.jpg","x":-401,"y":0,"width":267,"height":400},
 		{"id":"4430ee0006fc9846","type":"text","text":"# **JHIN-GIRL BELLE**\n","x":160,"y":-260,"width":291,"height":60},
-		{"id":"481a291251543ed3","type":"text","text":"Affiliation: [[Pullerng Order]]","x":-51,"y":-40,"width":250,"height":60}
+		{"id":"481a291251543ed3","type":"text","text":"Affiliation: [[Pullerng Order]]","x":-20,"y":0,"width":250,"height":60},
+		{"id":"3756f1764b02c92a","type":"text","text":"# PROTOTYPE DESIGNS\n","x":800,"y":-50,"width":360,"height":50},
+		{"id":"5c8283e7f9ef991b","type":"file","file":"images/Marcille_Transparent.webp","x":-99,"y":100,"width":158,"height":400},
+		{"id":"e19c7403ae143f3b","type":"file","file":"images/Marcille_Full_Body_(Anime).webp","x":92,"y":100,"width":214,"height":399},
+		{"id":"789439346b6a3832","type":"file","file":"images/Untitled 7.jpg","x":340,"y":100,"width":320,"height":400},
+		{"id":"8824179d8017cd9a","type":"file","file":"images/this-sub-has-tricked-me-into-believing-laios-x-marcille-v0-o9cqa1qewsjb1.webp","x":-108,"y":540,"width":400,"height":246},
+		{"id":"4a3a803a5dd42ea1","type":"file","file":"images/d635b2178d15c8957738685089640a7a.jpg","x":340,"y":540,"width":400,"height":400},
+		{"id":"0a2d76ed81599a35","type":"file","file":"images/___________PV_____-6.jpg","x":-534,"y":428,"width":400,"height":225},
+		{"id":"265c51ac32b2775c","type":"file","file":"images/Pasted image 20240126112255.png","x":900,"y":60,"width":646,"height":440}
 	],
 	"edges":[]
 }

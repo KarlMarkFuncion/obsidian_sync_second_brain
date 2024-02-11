@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"236c81ec7c1c1421","x":120,"y":-209,"width":400,"height":400,"type":"file","file":"Project Alaska/Cities, Nations, and Villages/Site 113-b.md"},
-		{"id":"f6d2605619733a4e","x":920,"y":-39,"width":250,"height":60,"type":"text","text":"# Moodboard\n"},
-		{"id":"c088fbcc8075908c","x":894,"y":-609,"width":276,"height":400,"type":"file","file":"images/j85hz0e1m2d41.webp"},
-		{"id":"3b8ae13b10388e7c","x":1240,"y":-586,"width":629,"height":354,"type":"file","file":"images/Generator.webp"},
-		{"id":"c1f104400c9fbdb5","x":1240,"y":-185,"width":629,"height":353,"type":"file","file":"images/acclaimed-post-apocalyptic-city-builder-frostpunk-is-currently-free-on-the-epic-games-store-1622738353498.webp"},
-		{"id":"c3096890f41870f5","x":998,"y":120,"width":172,"height":400,"type":"file","file":"images/Kristoff_Bjorgman.png"},
-		{"id":"82bdd9f40762f22f","x":1240,"y":220,"width":400,"height":400,"type":"file","file":"images/Sven_from_Frozen.png"},
-		{"id":"e07136a0e8c805be","x":1669,"y":220,"width":400,"height":225,"type":"file","file":"images/tony-tony-chopper.webp"},
-		{"id":"a7da2f9fce586fd4","x":1920,"y":-586,"width":920,"height":518,"type":"file","file":"images/20231205213023_1.webp"},
-		{"id":"94a13b9bbc80c075","x":2156,"y":21,"width":684,"height":391,"type":"file","file":"images/generative-ai-illustration-of-frozen-wasteland-the-rough-terrain-of-the-north-pole-photo.jpg"},
-		{"id":"322b863afd92e41a","x":2156,"y":461,"width":571,"height":319,"type":"file","file":"images/images.jpg"}
+		{"id":"236c81ec7c1c1421","type":"file","file":"Project Alaska/Cities, Nations, and Villages/Site 113-b.md","x":120,"y":-209,"width":400,"height":400},
+		{"id":"f6d2605619733a4e","type":"text","text":"# Moodboard\n","x":920,"y":-39,"width":250,"height":60},
+		{"id":"c088fbcc8075908c","type":"file","file":"images/j85hz0e1m2d41.webp","x":894,"y":-609,"width":276,"height":400},
+		{"id":"3b8ae13b10388e7c","type":"file","file":"images/Generator.webp","x":1240,"y":-586,"width":629,"height":354},
+		{"id":"c1f104400c9fbdb5","type":"file","file":"images/acclaimed-post-apocalyptic-city-builder-frostpunk-is-currently-free-on-the-epic-games-store-1622738353498.webp","x":1240,"y":-185,"width":629,"height":353},
+		{"id":"c3096890f41870f5","type":"file","file":"images/Kristoff_Bjorgman.png","x":998,"y":120,"width":172,"height":400},
+		{"id":"82bdd9f40762f22f","type":"file","file":"images/Sven_from_Frozen.png","x":1240,"y":220,"width":400,"height":400},
+		{"id":"e07136a0e8c805be","type":"file","file":"images/tony-tony-chopper.webp","x":1669,"y":220,"width":400,"height":225},
+		{"id":"a7da2f9fce586fd4","type":"file","file":"images/20231205213023_1.webp","x":1920,"y":-586,"width":920,"height":518},
+		{"id":"94a13b9bbc80c075","type":"file","file":"images/generative-ai-illustration-of-frozen-wasteland-the-rough-terrain-of-the-north-pole-photo.jpg","x":2156,"y":21,"width":684,"height":391},
+		{"id":"322b863afd92e41a","type":"file","file":"images/images.jpg","x":2156,"y":461,"width":571,"height":319}
 	],
 	"edges":[]
 }
