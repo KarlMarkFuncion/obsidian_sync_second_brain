@@ -11,7 +11,9 @@ I'll go again, I sense. I'd like to next week. in addition to going with Derick.
 	Steps to connect MongoDB to Node:
 		- [ ] Install Mongodb
 		- [ ] Add code to connect Node to Mongodb through mongoose or NodeMongoDB
-		- [ ] 
+		- [ ] Run MongoDB on terminal
+		- [ ] Add connection in MongoDb compass
+		- [ ] Run the Backend app.
 - [ ] Create a database through Mongoose in MongoDB
 
 - [x] Make a script for the Canva thing.
