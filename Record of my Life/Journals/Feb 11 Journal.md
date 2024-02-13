@@ -9,11 +9,11 @@ I'll go again, I sense. I'd like to next week. in addition to going with Derick.
 - [x] Set up Node JS for mongoDB
 - [x] Connect MongoDB to Node JS
 	Steps to connect MongoDB to Node:
-		- [ ] Install Mongodb
-		- [ ] Add code to connect Node to Mongodb through mongoose or NodeMongoDB
-		- [ ] Run MongoDB on terminal
-		- [ ] Add connection in MongoDb compass
-		- [ ] Run the Backend app.
+		- [ x ] Install Mongodb
+		- [ x ] Add code to connect Node to Mongodb through mongoose or NodeMongoDB
+		- [  x] Run MongoDB on terminal
+		- [ x ] Add connection in MongoDb compass
+		- [ x ] Run the Backend app.
 - [x] Create a database through Mongoose in MongoDB
 
 - [x] Make a script for the Canva thing.
