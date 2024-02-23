@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "78245397f53d0eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Record of my Life/Journals/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "04874b47cfab2744",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Record of my Life/Journals/Feb 19.md"
+                "file": "Record of my Life/Journals/Untitled.md"
               }
             }
           },
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Record of my Life/Journals/Feb 19.md",
+                "file": "Record of my Life/Journals/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Record of my Life/Journals/Feb 19.md",
+                "file": "Record of my Life/Journals/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,11 +228,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a681a1f5f3f2950a",
+  "active": "78245397f53d0eb3",
   "lastOpenFiles": [
+    "Record of my Life/Journals/Feb 19.md",
+    "Record of my Life/Journals/Untitled.md",
     "Record of my Life/Journals/Feb 11 Journal.md",
     "Project Alaska/Characters/Jhin-girl Belle.md",
-    "Record of my Life/Journals/Feb 19.md",
     "Project Alaska/Characters/Jhin-girl Belle.canvas",
     "Project Alaska/Characters/Iesulito Krissin.md",
     "readme.md",
@@ -255,7 +268,6 @@
     "Schedules/Jan 26 Schedule.md",
     "Schedules/Jan 25 Schedule.md",
     "What can I study for programming.md",
-    "Schedules/Jan 23 Schedule.md",
     "images/wh40k__adepta_sororitas__by_bergionstyle_dg25h2u-fullview.jpg",
     "images/viking-raiders-in-ocean.jpg",
     "Schedules",
